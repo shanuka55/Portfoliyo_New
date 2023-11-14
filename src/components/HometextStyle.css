@@ -13,13 +13,13 @@
 }
 .home-h3{
     font-size: 40px;
-    font-weight: 200;
+    font-weight: 300;
     letter-spacing: 15px;
 }
 .Home-Text{
-    position: relative;
+    position: absolute;
     margin: auto;
-    bottom: 500px;
+    bottom: 200px;
     left: 100px;
 
 
