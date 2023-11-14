@@ -1,16 +1,22 @@
 .header{
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    padding: 1rem;
+    padding: 2rem;
+    
 
+}
+.name{
+    margin-right: 500px;
 }
 
 .nav-menu{
     display: flex;
 }
 .nav-menu li{
-    padding: 0 1rem;
+    padding: 1rem;
+}
+.span{
+    color: #F2BD00;
 }
 
 .nav-menu li a{

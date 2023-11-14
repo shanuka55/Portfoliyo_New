@@ -6,8 +6,8 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <div className="header">
-      <Link to="/">
-        <h1>Shanuka</h1>
+      <Link to="/" className="name">
+        <h1><span className="span">S</span>hanuka</h1>
       </Link>
       <ul className="nav-menu">
         <li>

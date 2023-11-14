@@ -1,0 +1,25 @@
+.backImage{
+    width: 300px;
+    height: 580px;
+    background-color: #888585;
+    border-radius: 0px 0px 0px 50px;
+    position: relative;
+    left: 1188px;
+    bottom: 120px;
+
+
+}
+
+.Homeimage{
+    width: 300px;
+    height: 400px;
+    background-color: #0A0B1C;
+    border-radius: 0px 100px 0 100px;
+    position: relative;
+    right: 160px;
+    top: 130px;
+    border: 10px solid #F2BD00;
+    background-image: url(../Assets/BackgrounImage.png);
+    background-size: cover;
+    
+}
