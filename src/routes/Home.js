@@ -5,7 +5,7 @@ import HomeText from '../components/HomeText'
 
 const Home = () => {
   return (
-    <div>
+    <div className='Home'>
       <Navbar/>
       <HomeImage/>
       <HomeText/>
