@@ -1,15 +1,16 @@
+import "./NavbarStyle.css"
+
 import React from 'react'
+import { Link } from "react-router-dom";
 
-export const Navbar = () => {
+const Navbar = () => {
   return (
-    <div className='header'>
-      <h1>Shanuka</h1>
-      <ul>
-        <li>
-          <link>Home</link>
-        </li>
-      </ul>
-
+    <div className="header">
+      <Link to="/">
+        <h1>Shanuka</h1>
+      </Link>
     </div>
   )
 }
+
+export default Navbar
