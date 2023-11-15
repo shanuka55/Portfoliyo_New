@@ -9,6 +9,11 @@
     
 
 }
+
+.header-bg{
+    background-color: white;
+    transition: 0.5s;
+}
 .name{
     margin-right: 455px;
     letter-spacing: 5px;
