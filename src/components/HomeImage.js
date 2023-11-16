@@ -1,6 +1,6 @@
 import React from 'react'
 import "./HomeImageStyle.css"
-import IntroImg from "../Assets/5632960.jpg"
+import IntroImg from "../Assets/1473819.jpg"
 
 function HomeImage() {
   return (

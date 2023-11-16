@@ -2,8 +2,10 @@ import React from 'react'
 import "./HometextStyle.css"
 import { Link } from "react-router-dom";
 
+
 const HomeText = () => {
   return (
+    
     <div className='Home-Text'>
       <div className='container'>
         <h1 className='home-hi'>Hey There, </h1>
@@ -12,6 +14,8 @@ const HomeText = () => {
         <br></br>
         <div>
           <Link to="/about" className='btn'>Get Start </Link>
+        </div>
+        <div className='icon'>
         </div>
       </div>    
     </div>

@@ -33,7 +33,8 @@
     right: 200px;
     top: 130px;
     border: 10px solid #F2BD00;
-    background-image: url(../Assets/BackgrounImage.png);
-    background-size: cover;
+    background-image: url(../Assets/BackgrounImage2.png);
+    
+    background-size: contain;
     
 }
