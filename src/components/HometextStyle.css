@@ -26,3 +26,15 @@
     left: 100px;
 }
 
+.icon{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+    gap: 1rem;
+    width: 400px;
+    height: 70px;
+    cursor: pointer;
+    
+}
+

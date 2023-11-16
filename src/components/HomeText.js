@@ -1,7 +1,10 @@
 import React from 'react'
 import "./HometextStyle.css"
 import { Link } from "react-router-dom";
-
+import github from '../Assets/github.png'
+import facebook from '../Assets/facebook.png'
+import instagram from '../Assets/instagram.png'
+import linkedin from '../Assets/linkedin.png'
 
 const HomeText = () => {
   return (
@@ -16,6 +19,10 @@ const HomeText = () => {
           <Link to="/about" className='btn'>Get Start </Link>
         </div>
         <div className='icon'>
+            <img  src={github} alt=''/>
+            <img src={facebook} alt=''/>
+            <img src={instagram} alt=''/>
+            <img src={linkedin} alt=''/>
         </div>
       </div>    
     </div>
