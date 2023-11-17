@@ -9,6 +9,7 @@ const Home = () => {
       <Navbar/>
       <HomeImage/>
       <HomeText/>
+    
       
     </div>
   )
