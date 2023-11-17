@@ -10,9 +10,7 @@ const Home = () => {
       <Navbar/>
       <HomeImage/>
       <HomeText/>
-      <FooterSection/>
-    
-      
+      <FooterSection/> 
     </div>
   )
 }
