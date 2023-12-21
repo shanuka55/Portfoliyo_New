@@ -10,7 +10,8 @@ const About = () => {
       <Navbar/>
       <Heroimg2 heading="ABOUT." text="Im a friendly Full-Stack Developer "/>
       <AboutSection/>
-      <FooterSection/>
+    
+      
     </div>
   )
 }
