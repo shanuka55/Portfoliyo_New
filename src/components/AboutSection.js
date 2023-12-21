@@ -1,6 +1,6 @@
 import React from 'react'
 import "./AboutSectionStyle.css"
-import img from "../Assets/p1.png"
+import img from "../Assets/b2.jpg"
 
 const AboutSection = () => {
   return (
@@ -18,6 +18,7 @@ const AboutSection = () => {
 
         <div className='about-me' >
           <p className='about-p'>
+          Hi, my name is Shanuka Lakshan <br/>
             I live in Polonnaruwa at Sri lanka.<br/>
             I’m Currently study at Institute of Java and Software Engineering (IJSE).<br/>
             I have skill about web application design and software devolopment in java.<br/>
@@ -25,13 +26,14 @@ const AboutSection = () => {
           </p>
           <br/>
           <p className='about-details'>
-          <b>Name</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          &nbsp;&nbsp;&nbsp;:    H.G.Shanuka Lakshan Weerasooriya
+          
+          <b className='bolt'>Date of Birth</b> &nbsp;&nbsp;  :    2000.05.05
           <br/>
-          <b>Date of Birth</b> &nbsp;&nbsp;  :    2000.05.05
-          <br/>
-          <b>Nationalitty</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:   Sri Lanka
+          <b className='bolt'>Nationalitty</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:   Sri Lanka
           </p>
+        </div>
+        <div className='my-cv'>
+
         </div>
     
       </a>

@@ -6,7 +6,7 @@
   
   .photo{
     position: absolute;
-    top: 60%;
+    top: 70%;
     left: 30%;
     transform: translate(-50%, -50%);
     display: block;
@@ -89,4 +89,7 @@
   }
   .about-details{
     font-size: 18px;
+  }
+  .bolt{
+    color: #F2BD00;
   }
