@@ -6,6 +6,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
 
   const [color, setcolor] = useState(false);
+  
   const changeColor = () =>{
     if(window.screenY >=100){
       setcolor(true);
