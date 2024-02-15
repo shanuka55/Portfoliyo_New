@@ -6,6 +6,7 @@
     flex-wrap: wrap;
     padding: 60px 0;
     gap: 60px;
+    bottom: 70px;
 }
 
 .serviceContainer .box{
