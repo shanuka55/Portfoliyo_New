@@ -6,12 +6,12 @@ import facebook from '../Assets/facebook.png'
 import instagram from '../Assets/instagram.png'
 import linkedin from '../Assets/linkedin.png'
 
-const HomeText = () => {
+const HomeText = () => { 
   return (
     
     <div className='Home-Text'>
       <div className='container'>
-        <h1 className='home-hi'>Hey There, </h1>
+        <h1 className='home-hi'>Hey There,  </h1>
         <h1 className='home-h1'>I’m Shanuka Lakshan</h1>
         <h3 className='home-h3'>Full stack Developer</h3>
         <br></br>
