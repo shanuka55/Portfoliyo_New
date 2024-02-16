@@ -9,6 +9,8 @@ const Contact = () => {
       <Navbar/>
       <Heroimg2 heading="CONTACT ME." text="Lets have a chat"/>
       <FooterSection/>
+      
+      
     </div>
   )
 }
